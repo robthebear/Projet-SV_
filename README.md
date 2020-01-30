@@ -8,5 +8,6 @@ En premier lieu, un batch récupère le fichier normé dans le webservice.<br>
 Ensuite les informations sont extraites et injectées dans une table. <br>
 Cette table sera consultable via un front par des utilisateurs.<br>
 Un ou des admin pourront consulter cette tables mais aussi gérer les utilisateurs et les accès aux webservices.<br></p>
-
+## Use cases
+<br>
 <img src="Projet SV_.vpd.jpg">
