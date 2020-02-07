@@ -14,4 +14,4 @@ Un ou des admin pourront consulter cette tables mais aussi gérer les utilisateu
 <img src="Projet SV_.vpd.jpg">
 <h2>MCD</h2>
 <br>
-<img src="MCD/Projet_SV.png">
+<img src="MCD/SV_IMAGE.png">
