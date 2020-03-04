@@ -13,7 +13,7 @@ Un ou des admin pourront consulter cette tables mais aussi gérer les utilisateu
 <a href="https://xd.adobe.com/view/52e3a9ea-720a-4d37-4227-b0654632f74c-24d2/" target="_blank">Maquette</a>
 <h2>Use cases</h2>
 <br>
-<img src="Use case/SV Project.png">
+<img src="Use_case/SV_Project.png">
 <h2>MCD</h2>
 <br>
 <img src="MCD/SV_IMAGE.png">
