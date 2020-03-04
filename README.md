@@ -10,10 +10,10 @@ Cette table sera consultable via un front par des utilisateurs.<br>
 Un ou des admin pourront consulter cette tables mais aussi gérer les utilisateurs et les accès aux webservices.<br></p>
 <a href="https://trello.com/b/uUbI1IAB/projet-sv" target="_blank">Trello</a>
 <br>
-<a href="https://marvelapp.com/dfaf4je" target="_blank">Maquette</a>
+<a href="https://xd.adobe.com/view/52e3a9ea-720a-4d37-4227-b0654632f74c-24d2/" target="_blank">Maquette</a>
 <h2>Use cases</h2>
 <br>
-<img src="Projet SV_.vpd.jpg">
+<img src="Use case/SV Project.png">
 <h2>MCD</h2>
 <br>
 <img src="MCD/SV_IMAGE.png">
